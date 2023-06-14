@@ -1,5 +1,0 @@
-const fontFamily = {
-   
-  };
-  
-  export {fontFamily};
